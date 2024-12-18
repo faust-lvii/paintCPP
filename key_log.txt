@@ -1,0 +1,149 @@
+2024-12-18 22:55:50,656: Special key Key.cmd pressed
+2024-12-18 22:55:51,094: Key t pressed
+2024-12-18 22:55:51,199: Key e pressed
+2024-12-18 22:55:51,309: Key r pressed
+2024-12-18 22:55:51,548: Special key Key.enter pressed
+2024-12-18 22:55:52,998: Key n pressed
+2024-12-18 22:55:53,095: Key o pressed
+2024-12-18 22:55:53,112: Key i pressed
+2024-12-18 22:55:53,248: Key t pressed
+2024-12-18 22:55:53,344: Key e pressed
+2024-12-18 22:55:53,512: Special key Key.space pressed
+2024-12-18 22:55:53,958: Special key Key.ctrl_l pressed
+2024-12-18 22:55:53,999: Key  pressed
+2024-12-18 22:55:54,376: Key n pressed
+2024-12-18 22:55:54,448: Key o pressed
+2024-12-18 22:55:54,560: Key t pressed
+2024-12-18 22:55:54,639: Key e pressed
+2024-12-18 22:55:55,838: Special key Key.space pressed
+2024-12-18 22:55:56,104: Key n pressed
+2024-12-18 22:55:56,199: Key o pressed
+2024-12-18 22:55:56,320: Key t pressed
+2024-12-18 22:55:56,400: Key e pressed
+2024-12-18 22:55:56,624: Special key Key.space pressed
+2024-12-18 22:55:57,128: Key a pressed
+2024-12-18 22:55:57,181: Key l pressed
+2024-12-18 22:55:57,415: Key i pressed
+2024-12-18 22:55:57,718: Key y pressed
+2024-12-18 22:55:57,879: Key o pressed
+2024-12-18 22:55:58,024: Key r pressed
+2024-12-18 22:55:58,144: Key u pressed
+2024-12-18 22:55:58,376: Key m pressed
+2024-12-18 22:55:58,488: Special key Key.space pressed
+2024-12-18 22:55:58,758: Key n pressed
+2024-12-18 22:55:58,831: Key o pressed
+2024-12-18 22:55:58,982: Key t pressed
+2024-12-18 22:55:59,137: Special key Key.space pressed
+2024-12-18 22:55:59,472: Key d pressed
+2024-12-18 22:55:59,551: Key a pressed
+2024-12-18 22:55:59,639: Special key Key.space pressed
+2024-12-18 22:55:59,808: Key a pressed
+2024-12-18 22:55:59,928: Key l pressed
+2024-12-18 22:56:00,121: Key i pressed
+2024-12-18 22:56:00,278: Key y pressed
+2024-12-18 22:56:00,399: Key o pressed
+2024-12-18 22:56:00,528: Key r pressed
+2024-12-18 22:56:00,609: Key u pressed
+2024-12-18 22:56:00,824: Key m pressed
+2024-12-18 22:56:00,936: Special key Key.space pressed
+2024-12-18 22:56:01,639: Key b pressed
+2024-12-18 22:56:01,712: Key a pressed
+2024-12-18 22:56:01,894: Key k pressed
+2024-12-18 22:56:01,968: Key a pressed
+2024-12-18 22:56:02,181: Key l pressed
+2024-12-18 22:56:02,344: Key i pressed
+2024-12-18 22:56:02,518: Key m pressed
+2024-12-18 22:56:02,639: Special key Key.space pressed
+2024-12-18 22:56:03,200: Key l pressed
+2024-12-18 22:56:03,388: Key o pressed
+2024-12-18 22:56:03,856: Key g pressed
+2024-12-18 22:56:03,982: Key g pressed
+2024-12-18 22:56:04,078: Key e pressed
+2024-12-18 22:56:04,158: Key r pressed
+2024-12-18 22:56:04,240: Special key Key.space pressed
+2024-12-18 22:56:04,456: Key n pressed
+2024-12-18 22:56:04,518: Key a pressed
+2024-12-18 22:56:04,656: Key s pressed
+2024-12-18 22:56:04,718: Key i pressed
+2024-12-18 22:56:04,910: Key l pressed
+2024-12-18 22:56:05,024: Special key Key.space pressed
+2024-12-18 22:56:05,135: Key g pressed
+2024-12-18 22:56:05,168: Key b pressed
+2024-12-18 22:56:05,257: Key i pressed
+2024-12-18 22:56:05,519: Key r pressed
+2024-12-18 22:56:05,840: Special key Key.backspace pressed
+2024-12-18 22:56:05,981: Special key Key.backspace pressed
+2024-12-18 22:56:06,168: Special key Key.backspace pressed
+2024-12-18 22:56:06,264: Key b pressed
+2024-12-18 22:56:06,398: Key i pressed
+2024-12-18 22:56:06,488: Key r pressed
+2024-12-18 22:56:06,588: Special key Key.space pressed
+2024-12-18 22:56:07,416: Special key Key.backspace pressed
+2024-12-18 22:56:07,479: Special key Key.ctrl_l pressed
+2024-12-18 22:56:07,568: Special key Key.backspace pressed
+2024-12-18 22:56:07,735: Special key Key.backspace pressed
+2024-12-18 22:56:07,931: Special key Key.backspace pressed
+2024-12-18 22:56:08,099: Special key Key.backspace pressed
+2024-12-18 22:56:08,672: Key b pressed
+2024-12-18 22:56:08,782: Key i pressed
+2024-12-18 22:56:08,872: Key r pressed
+2024-12-18 22:56:08,976: Special key Key.space pressed
+2024-12-18 22:56:09,095: Key l pressed
+2024-12-18 22:56:09,272: Key o pressed
+2024-12-18 22:56:10,025: Key g pressed
+2024-12-18 22:56:10,208: Special key Key.space pressed
+2024-12-18 22:56:11,624: Key y pressed
+2024-12-18 22:56:11,856: Key a pressed
+2024-12-18 22:56:12,008: Key z pressed
+2024-12-18 22:56:12,072: Key x pressed
+2024-12-18 22:56:12,104: Key a pressed
+2024-12-18 22:56:12,616: Special key Key.backspace pressed
+2024-12-18 22:56:12,749: Special key Key.backspace pressed
+2024-12-18 22:56:12,838: Key a pressed
+2024-12-18 22:56:13,024: Key c pressed
+2024-12-18 22:56:13,128: Key a pressed
+2024-12-18 22:56:13,312: Key k pressed
+2024-12-18 22:56:13,376: Key k pressed
+2024-12-18 22:56:15,304: Special key Key.ctrl_l pressed
+2024-12-18 22:56:15,564: Special key Key.ctrl_l pressed
+2024-12-18 22:56:15,594: Special key Key.ctrl_l pressed
+2024-12-18 22:56:15,626: Special key Key.ctrl_l pressed
+2024-12-18 22:56:15,657: Special key Key.ctrl_l pressed
+2024-12-18 22:56:15,687: Special key Key.ctrl_l pressed
+2024-12-18 22:56:15,726: Special key Key.ctrl_l pressed
+2024-12-18 22:56:15,751: Special key Key.ctrl_l pressed
+2024-12-18 22:56:15,782: Special key Key.ctrl_l pressed
+2024-12-18 22:56:15,814: Special key Key.ctrl_l pressed
+2024-12-18 22:56:15,846: Special key Key.ctrl_l pressed
+2024-12-18 22:56:15,893: Special key Key.ctrl_l pressed
+2024-12-18 22:56:15,925: Special key Key.ctrl_l pressed
+2024-12-18 22:56:15,957: Special key Key.ctrl_l pressed
+2024-12-18 22:56:15,988: Special key Key.ctrl_l pressed
+2024-12-18 22:56:16,019: Special key Key.ctrl_l pressed
+2024-12-18 22:56:16,480: Special key Key.ctrl_l pressed
+2024-12-18 22:56:16,592: Key  pressed
+2024-12-18 22:56:16,982: Special key Key.backspace pressed
+2024-12-18 22:56:17,639: Key c pressed
+2024-12-18 22:56:17,864: Key l pressed
+2024-12-18 22:56:17,944: Key e pressed
+2024-12-18 22:56:18,088: Key a pressed
+2024-12-18 22:56:18,158: Key r pressed
+2024-12-18 22:56:18,344: Special key Key.enter pressed
+2024-12-18 22:56:18,968: Key e pressed
+2024-12-18 22:56:19,368: Key x pressed
+2024-12-18 22:56:19,464: Key i pressed
+2024-12-18 22:56:19,624: Key t pressed
+2024-12-18 22:56:19,632: Key y pressed
+2024-12-18 22:56:19,768: Special key Key.enter pressed
+2024-12-18 22:56:20,560: Key e pressed
+2024-12-18 22:56:20,789: Key x pressed
+2024-12-18 22:56:21,008: Key i pressed
+2024-12-18 22:56:21,158: Key t pressed
+2024-12-18 22:56:21,416: Special key Key.enter pressed
+2024-12-18 22:56:23,528: Special key Key.ctrl_l pressed
+2024-12-18 22:56:23,576: Key  pressed
+2024-12-18 22:57:11,856: Special key Key.ctrl_l pressed
+2024-12-18 22:57:12,118: Special key Key.ctrl_l pressed
+2024-12-18 22:57:12,150: Special key Key.ctrl_l pressed
+2024-12-18 22:57:12,174: Special key Key.ctrl_l pressed
+2024-12-18 22:57:12,182: Key  pressed
